@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1677352649 source:c:\users\22wag\desktop\spring 2023\csci 173\project02\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+	<math.h>
+
+1661720605 c:\users\22wag\desktop\spring 2023\csci 173\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1677548688 source:c:\users\22wag\desktop\spring 2023\csci 173\project02\project02.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<ctime>
+	<math.h>
+
